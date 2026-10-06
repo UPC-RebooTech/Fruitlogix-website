@@ -2250,3 +2250,10 @@ video {
     grid-template-columns: 1fr;
   }
 }
+
+/* BOTÓN DESCARGA */
+.btn-download {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
